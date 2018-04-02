@@ -15,7 +15,6 @@ import {
 import '../node_modules/vuetify/src/stylus/app.styl'
 import App from './App.vue'
 import Components from 'components/_index'
-
 import { createStore } from 'store/index'
 import { createRouter } from 'router/index'
 import { sync } from 'vuex-router-sync'
