@@ -6,8 +6,6 @@ The frontend was built using the [Vue-Hackernews-2.0 Template](https://github.co
 
 ## Features
 
-> Note: in practice, it is unnecessary to code-split for an app of this size (where each async chunk is only a few kilobytes), nor is it optimal to extract an extra CSS file (which is only 1kb) -- they are used simply because this is a demo app showcasing all the supported features. In real apps, you should always measure and optimize based on your actual app constraints.
-
 - Server Side Rendering
   - Vue + vue-router + vuex working together
   - Server-side data pre-fetching
@@ -25,6 +23,8 @@ The frontend was built using the [Vue-Hackernews-2.0 Template](https://github.co
 - Animation
   - Effects when switching route views
   - Real-time list updates with FLIP Animation
+- [Awesome-vue](https://github.com/vuejs/awesome-vue)
+  - Integrated components from developer community
 
 ## Architecture Overview
 
