@@ -25,6 +25,12 @@ npm run dev
 ## Build
 
 ``` bash
+#clone this repo
+git clone https://github.com/chuycepeda/vuetify-boilerplate.git
+
+#go to root
+cd vuetify-boilerplate
+
 # install dependencies
 npm install
 
